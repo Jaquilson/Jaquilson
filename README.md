@@ -1,6 +1,6 @@
 Hi There 👋🏾
 
-Sou o Jaquilson Afonso, estudante de cibersegurança dedicado a aprimorar minhas habilidades na área. Minha base sólida em Tecnologia da Informação reforça meu compromisso com a segurança online. Estou pronto para continuar aprendendo e contribuir enquanto avanço nessa jornada de aperfeiçoamento
+I'm Jaquilson Afonso, a cybersecurity student dedicated to improving my skills in the area. My solid foundation in Information Technology reinforces my commitment to online security. I'm ready to continue learning and contributing as we move forward on this journey of improvement
 
 ## SKILLS 
 
